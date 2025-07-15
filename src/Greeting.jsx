@@ -1,5 +1,5 @@
 function Greeting() {
-  return <h1>&quot;This is my first React component.&quot;</h1>;
+  return <h2>&quot;This is my first React component.&quot;</h2>;
 }
 
 export default Greeting;
